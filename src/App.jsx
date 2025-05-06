@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <h1>My React App</h1>
-      <h1>Ronit</h1>
+      <h1>Romani Gupta</h1>
     </div>
   )
 }
